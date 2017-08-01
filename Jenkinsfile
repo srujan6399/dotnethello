@@ -1,4 +1,4 @@
-Jenkins (Declarative pipeline)
+Jenkins (Declarative Pipeline)
 pipeline {
     agent any
 
